@@ -1,7 +1,8 @@
 
 # Created by https://www.gitignore.io/api/emacs,python
 # Edit at https://www.gitignore.io/?templates=emacs,python
-
+###pycharm####
+.idea
 ### Emacs ###
 # -*- mode: gitignore; -*-
 *~
